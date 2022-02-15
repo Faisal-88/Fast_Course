@@ -1,0 +1,149 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    background: #2154B7;
+
+}
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+.Menu{
+    display: flex;
+    list-style: none;
+}
+.Menu nav{
+    display: flex;
+}
+.Menu nav li a{
+    text-decoration: none;
+    margin-right: 25px;
+    color: #FFFFFF;
+    font-family: 'Ubuntu', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+}
+.isi p{
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 41px;
+    margin-top: 113px;
+    color: #FFFFFF;
+}
+.isi2 p{
+    font-family: 'Ubuntu', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 41px;
+    color: #FFFFFF;
+    /* margin-bottom: 29px; */
+}
+.isi3 p{
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    /* margin-top: 60px; */
+    color: #FFFFFF;
+}
+.isi4 p{
+    font-family: 'Ubuntu', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+.isi4 p strong{
+    font-family: 'Ubuntu', sans-serif;
+}
+.isi5 button{
+    background: rgba(0, 0, 0, 0.4);
+    color: #FFFFFF;
+    border-radius: 10px;
+    font-size: 24px;
+}
+.isi5 button p{
+    float: left;
+    margin-left: 15px;
+}
+.isi5 button img{
+    padding-left: 20px;
+    position: relative;
+    display: flex;
+    margin-top: 15px;
+}
+.icon1 {
+    width: 24px;
+    height: 24px;
+    left: 190px;
+    top: 452px;
+    margin-top:51px;
+    display: flex;
+}
+.icon1 a{
+    margin-right: 11px;
+}
+.teksIcon strong a{
+    text-decoration: none;
+    font-weight: bold;
+    font-family: 'Ubuntu', sans-serif;
+    color: #FFFFFF;
+}
+.teksIcon p{
+    font-family: 'Ubuntu', sans-serif;
+    font-style: normal;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height  */
+    color: #FFFFFF;
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 11px;
+}
+.img-wrapper{
+    position: absolute;
+    top: 65px;
+    right: 172px;
+    
+}
+
+.bawah{
+    background: rgba(79, 123, 208, 1);
+    width: 100%;
+    margin: 0 auto;
+}
+.bawah p{
+    text-align: center;
+    font-family: Ubuntu, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 55px;
+    color: #FFFFFF;
+    margin-top: 0px;
+}
+.bawah img{
+    margin-left: 720px; 
+    margin-bottom: 30px;
+}
+.end p{
+    font-family: Ubuntu, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+    width: 870px;
+    margin-left: 545px;
+    margin-bottom: 35px;
+
+
+}
